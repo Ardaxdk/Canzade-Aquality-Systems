@@ -1,0 +1,37 @@
+{
+	"name": "can-moderation",
+	"version": "2.0.0",
+	"description": "can",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js",
+		"format": "prettier --write ."
+	},
+	"engines": {
+		"node": "12.x"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@discordjs/core": "^0.6.0",
+		"@discordjs/rest": "^1.7.1",
+		"@discordjs/voice": "^0.8.0",
+		"axios": "^0.24.0",
+		"canvas": "^2.11.2",
+		"chalk": "^2.4.2",
+		"discord-api-types": "^0.37.43",
+		"discord.js": "^14.8.0",
+		"klaw": "^2.1.1",
+		"moment": "^2.29.1",
+		"moment-duration-format": "^2.3.2",
+		"mongoose": "^5.9.16",
+		"ms": "^2.1.2",
+		"prettier": "^2.6.2",
+		"pretty-ms": "^7.0.0",
+		"rest": "^2.0.0",
+		"table": "^5.4.6"
+	},
+	"devDependencies": {
+		"eslint": "^7.17.0"
+	}
+}
