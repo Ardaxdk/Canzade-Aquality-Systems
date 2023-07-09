@@ -2,6 +2,9 @@
 Uzun bir süre beklettiğim için özür dilerim. Botun tüm içeriğinin aquality botları olması yerine aqualityde olan sistemler ile kendi yorumlarımı birleştirdim ortaya daha güzel bir iş çıktığına eminim. Guard botunu şuan için paylaşmayacağım talep artarsa paylaşacağım.
 Kurulumları tamamlamak için tüm botların config dosyasını doldurduktan sonra moderasyon botunu başlatıp .setup komutu ile bütün kurulumları bitirmeniz gerekiyor. Bütün botların stabil çalışması için tüm botlarda aynı mongoDB linkini kullanmanız gerekiyor. Hata ile karışmanız durumunda benimle iletişime geçin Discord: canzade
 
+Kodlar şahsım tarafından yazılmıştır.
+Aquality botçucusu AreBy botların replikasını paylaşmama izin verdiği için teşekkür ederim.
+
 ![image](https://worker.canzade.rocks/storage/uploads/gifs/451148936753840128.gif)
 
 # STAT BOTU
